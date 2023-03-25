@@ -1,6 +1,9 @@
 # portfolio_karasu
 # 💫 About Me:
-🔭 I’m currently working on *UPDATE LATER*
+🔭 I’m currently working on the projects:
+🌊🛰️Water resource assessment of East Kazakhstan region using satellite data and open-source technologies
+🗺️🇰🇿Creating web map portal about Kazakhstan
+🧑‍💻🌐Automation of River Ridge Ranch UAV process workflow and creating ArcHub site
 
 
 ## 🌐 Socials:
