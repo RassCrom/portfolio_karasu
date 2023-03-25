@@ -1,6 +1,6 @@
 # portfolio_karasu
 # 💫 About Me:
-🔭 I’m currently working on project
+🔭 I’m currently working on *UPDATE LATER*
 
 
 ## 🌐 Socials:
